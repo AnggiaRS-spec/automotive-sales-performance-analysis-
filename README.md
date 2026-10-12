@@ -27,3 +27,16 @@ This project presents an interactive Power BI dashboard to analyze automotive sa
 ![Automotive Sales Performance Dashboard](Screenshot%202026-10-12%20080145.png)
 ## Project Type
 Data Analytics | Business Intelligence | Dashboard Visualization
+## Project Files
+
+- **Power BI Dashboard:** `automotive_sales_performance.pbix`
+- **Dashboard Preview:** Interactive dashboard screenshot available in this repository.
+- **Dataset:** Available in the `data` folder.
+
+## Skills Demonstrated
+
+- Data Visualization
+- Sales Performance Analysis
+- Business Intelligence
+- Dashboard Design
+- Data Interpretation
