@@ -27,6 +27,16 @@ This project presents an interactive Power BI dashboard to analyze automotive sa
 ![Automotive Sales Performance Dashboard](Screenshot%202026-10-12%20080145.png)
 ## Project Type
 Data Analytics | Business Intelligence | Dashboard Visualization
+## Key Metrics
+
+| Metric | Value |
+|---|---:|
+| Total Sales | 3.09T |
+| Total Transactions | 10,000 |
+| Total Quantity | 10,433 |
+| Completion Rate | 89.66% |
+
+These metrics provide an overview of automotive sales performance and transaction completion throughout 2025.
 ## Project Files
 
 - **Power BI Dashboard:** `automotive_sales_performance.pbix`
