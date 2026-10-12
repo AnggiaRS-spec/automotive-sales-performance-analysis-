@@ -24,8 +24,6 @@ This project presents an interactive Power BI dashboard to analyze automotive sa
 - Microsoft Power BI
 
 ## Dashboard Preview
-
-![Automotive Sales Performance Dashboard](dashboard-preview1.png)
-
+![Automotive Sales Performance Dashboard](Screenshot%202026-10-12%20080145.png)
 ## Project Type
 Data Analytics | Business Intelligence | Dashboard Visualization
