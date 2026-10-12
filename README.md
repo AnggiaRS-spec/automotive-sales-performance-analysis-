@@ -50,3 +50,22 @@ These metrics provide an overview of automotive sales performance and transactio
 - Business Intelligence
 - Dashboard Design
 - Data Interpretation
+
+## Key Findings
+
+### 1. Monthly Sales Trends
+- **Highest Sales:** July 2025
+- **Lowest Sales:** June 2025
+
+### 2. Branch Performance
+- **Top-Performing Branch:** Malang
+
+### 3. Top Products by Sales
+The following products were identified among the top products by sales:
+1. Honda CR-V 1.5 Turbo RS
+2. Toyota Fortuner 2.4 VRZ 4x2 AT
+3. Mitsubishi Pajero Sport Dakar
+4. Isuzu D-Max Double Cabin 4x4
+5. Honda HR-V 1.5 E CVT
+
+These findings summarize the monthly sales trends, branch performance, and leading products identified in the dashboard.
